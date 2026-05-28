@@ -1,2 +1,2 @@
 # Lean-Six-Sigma
-Study about Lean Six Sigma - KPMG
+Lean Six Sigma Black Belt Study & Transformation Portal
